@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0;
+    background-color:rgb(254, 255, 255);
+    opacity: 1;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+    opacity: 0.9;
+}
+
+h1{
+    display: inline-block;
+    color: blue;
+    font-size: large;
+    font-stretch: condensed;
+    font-weight: bolder;
+    font-size:xx-large;
+
+}
+button{
+    width: 50%;
+    height: 25px;
+}
